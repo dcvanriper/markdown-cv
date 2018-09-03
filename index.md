@@ -8,16 +8,18 @@ Physicist, Mathematician, Cambridge professor.
 <div id="webaddress">
 <a href="vanriper@umn.edu">vanriper@umn.edu</a>
 | <a href="https://pop.umn.edu/staff/dave-van-riper">My bio</a>
-|  
+| @dcvanriper 
 </div>
-| @dcvanriper
 
 
 ## Appointments
 
 Director of Spatial Analysis, Minnesota Population Center, University of Minnesota, 2010--.
+
 Research Fellow, Minnesota Population Center, University of Minnesota, 2005-2010.
+
 Teaching Specialist, Department of Geography, Environment and Society, University of Minnesota, 2015.
+
 Teaching Specialist, School of Public Health, University of Minnesota, 2008-2014.
 
 ## Education
@@ -31,18 +33,9 @@ __B.A., Geography, The University of Wisconsin - Madison__
 __M.A., Geography, The University of Minnesota__
 
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+<!-- A list is also available [online](https://scholar.google.com/citations?user=-RlIzb0AAAAJ&hl=en) -->
 
 ### Journals
 
