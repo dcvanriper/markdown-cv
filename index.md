@@ -7,7 +7,7 @@ title: David Van Riper's CV
 <div id="webaddress">
 <a href="vanriper@umn.edu">vanriper@umn.edu</a>
 | <a href="https://pop.umn.edu/staff/dave-van-riper">My bio</a>
-| @dcvanriper 
+| <a href="https://twitter.com/dcvanriper">@dcvanriper</a> 
 </div>
 
 
