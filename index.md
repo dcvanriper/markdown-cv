@@ -1,45 +1,34 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: David Van Riper's CV
 ---
-# Isaac Newton
+# David Van Riper
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="vanriper@umn.edu">vanriper@umn.edu</a>
+| <a href="https://pop.umn.edu/staff/dave-van-riper">My bio</a>
+|  
 </div>
+| @dcvanriper
 
 
-## Currently
+## Appointments
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Director of Spatial Analysis, Minnesota Population Center, University of Minnesota, 2010--.
+Research Fellow, Minnesota Population Center, University of Minnesota, 2005-2010.
+Teaching Specialist, Department of Geography, Environment and Society, University of Minnesota, 2015.
+Teaching Specialist, School of Public Health, University of Minnesota, 2008-2014.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`1995 - 1999`
+__B.A., Geography, The University of Wisconsin - Madison__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Environmental Studies Certificate
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+`2000 - 2005`
+__M.A., Geography, The University of Minnesota__
 
 
 ## Awards
@@ -86,6 +75,6 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: September 2018 -->
 
 
