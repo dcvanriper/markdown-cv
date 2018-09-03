@@ -13,7 +13,7 @@ title: David Van Riper's CV
 
 ## Appointments
 
-Director of Spatial Analysis, Minnesota Population Center, University of Minnesota, 2010--.
+Director of Spatial Analysis, Minnesota Population Center, University of Minnesota, 2010-present.
 
 Research Fellow, Minnesota Population Center, University of Minnesota, 2005-2010.
 
