@@ -28,8 +28,6 @@ __B.A., The University of Wisconsin - Madison__
 
 - Geography
 
-- Environmental Studies Certificate
-
 `2000 - 2005`
 __M.A., The University of Minnesota__
 
