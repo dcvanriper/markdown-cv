@@ -48,7 +48,7 @@ etc. etc. etc.
 
 ### Conference Presentations
 
-### Grants
+## Grants
 
 <!-- ### Footer
 
