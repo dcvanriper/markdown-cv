@@ -3,7 +3,6 @@ layout: cv
 title: David Van Riper's CV
 ---
 # David Van Riper
-Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
 <a href="vanriper@umn.edu">vanriper@umn.edu</a>
