@@ -51,6 +51,9 @@ etc. etc. etc.
 
 ## Grants
 
+'2016-2020'
+Multiple Principal Investigator (with J. Michael Oakes) HealthPop: A geocoding, spatial workflow and contextual data integration platform. R01 GM123642. National Institute of General Medical Sciences, National Institutes of Health. $1,106,142.
+
 <!-- ### Footer
 
 Last updated: September 2018 -->
