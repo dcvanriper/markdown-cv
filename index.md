@@ -39,6 +39,8 @@ __M.A., University of Minnesota__
 
 ### Journals
 
+
+
 `1669`
 Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
 
@@ -51,8 +53,17 @@ etc. etc. etc.
 
 ## Grants
 
+`2018-2023`
+National Institute of Child Health and Human Development, National Institutes of Health, R01 HD057929, "National Spatiotemporal Population Research Infrastructure" (Multiple Principal Investigator with Steven M. Manson), $2,924,060.
+
+`2018-2022`
+National Institute of Aging, National Institutes of Health, , "TITLE" (Sub-award Principal Investigator), $XXXXXX.
+
+`2017-2024`
+National Heart, Lung, and Blood Institute, National Institutes of Health, R35 HL139853, "Eating, Activity and Weight-Related Problems Across the Life Course in Diverse Populations" (Co-Investigator), $604,436.
+
 `2016-2020`
-National Institute of General Medical Sciences, National Institutes of Health, R01 GM123642,  "HealthPop: A geocoding, spatial workflow and contextual data integration platform", Multiple Principal Investigator (with J. Michael Oakes), $1,106,142.
+National Institute of General Medical Sciences, National Institutes of Health, R01 GM123642,  "HealthPop: A geocoding, spatial workflow and contextual data integration platform" (Multiple Principal Investigator with J. Michael Oakes), $1,106,142.
 
 <!-- ### Footer
 
