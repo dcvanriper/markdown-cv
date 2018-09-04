@@ -74,7 +74,7 @@ National Heart, Lung, and Blood Institute, National Institutes of Health, R35 HL
 National Institute of General Medical Sciences, National Institutes of Health, R01 GM123642,  "HealthPop: A geocoding, spatial workflow and contextual data integration platform" (Multiple Principal Investigator with J. Michael Oakes), $1,106,142.
 
 `2017-2019`
-National Institute of Child Health and Human Development, National Institutes of Health, R03 XXXXX, "Counting Marriage and Divorce: Archiving Over a Century of County and State Data" (Sub-award Co-Investigator), $30,750.
+National Institute of Child Health and Human Development, National Institutes of Health, R03 HD078653, "Counting Marriage and Divorce: Archiving Over a Century of County and State Data" (Sub-award Co-Investigator), $30,750.
 
 <!-- ### Footer
 
