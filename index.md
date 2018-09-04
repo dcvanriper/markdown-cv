@@ -65,7 +65,7 @@ National Institute on Aging, National Institutes of Health, R01 AG041831, "Micro
 National Institute of Child Health and Human Development, National Institutes of Health, R01 HD043392, "Microdata for Population Dynamics and Health Research" (Co-Investigator), $3,186,903.
 
 `2018-2022`
-National Institute on Aging, National Institutes of Health, , "Hotspotting Cardiometabolic Disparities for Simulated Advances in Population Care" (Sub-award Principal Investigator), $68,656.
+National Institute on Aging, National Institutes of Health, R01 AG052533, "Hotspotting Cardiometabolic Disparities for Simulated Advances in Population Care" (Sub-award Principal Investigator), $68,656.
 
 `2017-2024`
 National Heart, Lung, and Blood Institute, National Institutes of Health, R35 HL139853, "Eating, Activity and Weight-Related Problems Across the Life Course in Diverse Populations" (Co-Investigator), $604,436.
