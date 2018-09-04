@@ -24,12 +24,12 @@ Teaching Specialist, School of Public Health, University of Minnesota, 2008-2014
 ## Education
 
 `1999`
-__B.A., The University of Wisconsin - Madison__
+__B.A., University of Wisconsin - Madison__
 
 - Geography
 
 `2003`
-__M.A., The University of Minnesota__
+__M.A., University of Minnesota__
 
 - Geography
 
