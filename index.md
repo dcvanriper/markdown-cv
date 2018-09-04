@@ -17,7 +17,8 @@ Director of Spatial Analysis, Minnesota Population Center, University of Minneso
 
 Research Fellow, Minnesota Population Center, University of Minnesota, 2005-2010.
 
-Teaching Specialist, Department of Geography, Environment and Society, University of Minnesota, 2015.
+Teaching Specialist, Department of Geography, Environment and Society, University of Minnesota,
+2015.
 
 Teaching Specialist, School of Public Health, University of Minnesota, 2008-2014.
 
