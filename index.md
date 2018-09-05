@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: David Van Riper's CV
+title: David Van Riper
 ---
 # David Van Riper
 
