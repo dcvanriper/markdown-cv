@@ -17,6 +17,8 @@ markdown-cv
 
 - Add in the publication years with back ticks for proper rendering
 
+- Modify the order with most recent publication at top of list
+
 
 A curriculum vitae maintained in plain text and rendered to html and pdf using CSS.
 
