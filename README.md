@@ -1,6 +1,23 @@
 markdown-cv
 ===========
 
+## DVR notes
+
+- Use Zotero to maintain bibliography.
+
+- Select items in Zotero -> right click list -> Create Bibliography from Items...
+
+- Chicago Manual of Style 17th edition (full note) creates a bibliography style I like to read
+
+- Save out as HTML file
+
+- Open HTML file in Chrome browser.
+
+- Copy and paste text into markdown-cv.md file.
+
+- Add in the publication years with back ticks for proper rendering
+
+
 A curriculum vitae maintained in plain text and rendered to html and pdf using CSS.
 
 For more details see the [project page](http://elipapa.github.io/markdown-cv) or the blog post on [why I switched to markdown for my CV](http://elipapa.github.io/blog/why-i-switched-to-markdown-for-my-cv.html).
