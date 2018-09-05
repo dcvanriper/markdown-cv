@@ -7,7 +7,7 @@ markdown-cv
 
 - Select items in Zotero -> right click list -> Create Bibliography from Items...
 
-- Chicago Manual of Style 17th edition (full note) creates a bibliography style I like to read
+- Chicago Manual of Style 17th edition (author date) creates a bibliography style I like to read
 
 - Save out as HTML file
 
