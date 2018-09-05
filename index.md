@@ -83,7 +83,7 @@ Laska, Melissa Nelson, Dan J. Graham, Stacey G. Moe, and David Van Riper. 2010. 
 Sander, Heather A., Debarchana Ghosh, David van Riper, and Steven M. Manson. 2010. “How Do You Measure Distance in Spatial Models? An Example Using Open-Space Valuation:” Environment and Planning B: Planning and Design, January. https://doi.org/10.1068/b35126.
 
 `2003`
-McMaster, Robert B., Mark Lindberg, and David Van Riper. 2003. “The National Historical Geographic Information System (NHGIS).” In Proceedings 21st International Cartographic Conference, 821–828.\
+McMaster, Robert B., Mark Lindberg, and David Van Riper. 2003. “The National Historical Geographic Information System (NHGIS).” In Proceedings 21st International Cartographic Conference, 821–828.
 
 ### Databases
 
