@@ -43,6 +43,7 @@ __B.A., University of Wisconsin - Madison__
 <!-- A list is also available [online](https://scholar.google.com/citations?user=-RlIzb0AAAAJ&hl=en) -->
 
 `Forthcoming`
+Grace, Kathryn, Nagle, Nicholas, Burgert-Brucker, Clara, Rutzick, Shelby, Van Riper, David, Dontamsetti, Trinadh, and Croft, Trevor. Forthcoming. “Considering Geographic Scale and (Desperately) Seeking Contextually Relevant Spatial Information While Protecting Participant Confidentiality.” Population and Development Review.
 
 `2010`
 Forsyth, Ann, Leslie Lytle, and David Van Riper. 2010. “Finding Food: Issues and Challenges in Using Geographic Information Systems (GIS) to Measure Food Access.” Journal of Transport and Land Use 3 (1). https://doi.org/10.5198/jtlu.v3i1.105.
