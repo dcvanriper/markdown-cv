@@ -90,8 +90,6 @@ McMaster, Robert B., Mark Lindberg, and __David Van Riper__. 2003. “The Nation
 `2017`
 Manson, Steven, Jonathan Schroeder, __David Van Riper__, and Steven Ruggles. 2017. “IPUMS National Historical Geographic Information System: Version 12.0 [Database].” Minneapolis: University of Minnesota.
 
-### Conference Presentations
-
 ## Grants
 
 `2018-2023`
