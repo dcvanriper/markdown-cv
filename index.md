@@ -93,7 +93,7 @@ Manson, Steven, Jonathan Schroeder, __David Van Riper__, and Steven Ruggles. 201
 ## Grants
 
 `2018-2023`
-National Science Foundation, SES-1825768, "National Spatiotemporal Population Research Infrastructure" (Co-Investigator), $999,900.
+National Science Foundation, SES-1825768, "National Historical Geographic Information System" (Co-Investigator), $999,900.
 
 
 `2018-2023`
