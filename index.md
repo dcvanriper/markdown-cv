@@ -40,7 +40,7 @@ __B.A., University of Wisconsin - Madison__
 
 ### Journals
 
-`Forthcoming`
+`2018`
 Grace, Kathryn, Nicholas Nagle, Clara Burgert-Brucker, Shelby Rutzick, __David Van Riper__, Trinadh Dontamsetti, and Trevor Croft. 2018. “Integrating Environmental Context into DHS Analysis While Protecting Participant Confidentiality: A New Remote Sensing Method.” _Population and Development Review_ . https://doi.org/10.1111/padr.12222.
 
 `2016`
