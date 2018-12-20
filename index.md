@@ -41,7 +41,7 @@ __B.A., University of Wisconsin - Madison__
 ### Journals
 
 `Forthcoming`
-Grace, Kathryn, Nicholas Nagle, Clara Burgert-Brucker, Shelby Rutzick, __David Van Riper__, Trinadh Dontamsetti, and Trevor Croft. Forthcoming. “Considering Geographic Scale and (Desperately) Seeking Contextually Relevant Spatial Information While Protecting Participant Confidentiality.” *Population and Development Review*.
+Grace, Kathryn, Nicholas Nagle, Clara Burgert-Brucker, Shelby Rutzick, __David Van Riper__, Trinadh Dontamsetti, and Trevor Croft. 2018. “Integrating Environmental Context into DHS Analysis While Protecting Participant Confidentiality: A New Remote Sensing Method.” _Population and Development Review_ . https://doi.org/10.1111/padr.12222.
 
 `2016`
 Saporito, Salvatore, and __David Van Riper__. 2016. “Do Irregularly Shaped School Attendance Zones Contribute to Racial Segregation or Integration?” _Social Currents_ 3 (1): 64–83. https://doi.org/10.1177/2329496515604637.
