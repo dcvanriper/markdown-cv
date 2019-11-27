@@ -43,6 +43,9 @@ __B.A., University of Wisconsin - Madison__
 `Forthcoming`
 Allen, Ryan, and __David Van Riper__. “The New Deal, the Deserving Poor and the First Public Housing Residents in New York City.” _Social Science History_.
 
+`2019`
+Kugler, Tracy A., Kathryn Grace, David J. Wrathall, Alex de Sherbinin, __David Van Riper__, Christoph Aubrecht, Douglas Comer, Susana B. Adamo, Guido Cervone, Ryan Engstrom, Carolynne Hultquist, Andrea E. Gaughan, Catherine Linard, Emilio Moran, Forrest Stevens, Andrew J. Tatem, Beth Tellman, Jamon Van Den Hoek. 2019. “People and Pixels 20 Years Later: The Current Data Landscape and Research Trends Blending Population and Environmental Data.” _Population and Environment_, November. https://doi.org/10.1007/s11111-019-00326-5.
+
 `2018`
 Grace, Kathryn, Nicholas Nagle, Clara Burgert-Brucker, Shelby Rutzick, __David Van Riper__, Trinadh Dontamsetti, and Trevor Croft. 2018. “Integrating Environmental Context into DHS Analysis While Protecting Participant Confidentiality: A New Remote Sensing Method.” _Population and Development Review_. https://doi.org/10.1111/padr.12222.
 
