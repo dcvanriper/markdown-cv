@@ -40,8 +40,11 @@ __B.A., University of Wisconsin - Madison__
 
 ### Journals
 
-`Forthcoming`
-Allen, Ryan, and __David Van Riper__. “The New Deal, the Deserving Poor and the First Public Housing Residents in New York City.” _Social Science History_.
+`2020`
+Grace, Kathryn, Sunnee Billingsley, and __David Van Riper__. 2020. “Building an Interdisciplinary Framework to Advance Conceptual and Technical Aspects of Population-Environment Research Focused on Women’s and Children’s Health.” _Social Science & Medicine_ 250 (April): 112857. https://doi.org/10.1016/j.socscimed.2020.112857.
+
+`2020`
+Allen, Ryan, and __David Van Riper__. 2020. “The New Deal, the Deserving Poor and the First Public Housing Residents in New York City.” _Social Science History_ 44 (1): 91–115. https://doi.org/10.1017/ssh.2019.41.
 
 `2019`
 Kugler, Tracy A., Kathryn Grace, David J. Wrathall, Alex de Sherbinin, __David Van Riper__, Christoph Aubrecht, Douglas Comer, Susana B. Adamo, Guido Cervone, Ryan Engstrom, Carolynne Hultquist, Andrea E. Gaughan, Catherine Linard, Emilio Moran, Forrest Stevens, Andrew J. Tatem, Beth Tellman, Jamon Van Den Hoek. 2019. “People and Pixels 20 Years Later: The Current Data Landscape and Research Trends Blending Population and Environmental Data.” _Population and Environment_, November. https://doi.org/10.1007/s11111-019-00326-5.
@@ -94,7 +97,7 @@ McMaster, Robert B., Mark Lindberg, and __David Van Riper__. 2003. “The Nation
 ### Databases
 
 `2017`
-Manson, Steven, Jonathan Schroeder, __David Van Riper__, and Steven Ruggles. 2017. “IPUMS National Historical Geographic Information System: Version 12.0 [Database].” Minneapolis: University of Minnesota.
+Manson, Steven, Jonathan Schroeder, __David Van Riper__, and Steven Ruggles. 2019. “IPUMS National Historical Geographic Information System: Version 14.0 [Database].” Minneapolis: University of Minnesota.
 
 ## Grants
 
@@ -125,6 +128,6 @@ National Institute of Child Health and Human Development, National Institutes of
 
 <!-- ### Footer
 
-Last updated: December 2018 -->
+Last updated: May 2020 -->
 
 
