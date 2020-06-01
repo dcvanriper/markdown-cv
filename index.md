@@ -126,6 +126,35 @@ National Institute of General Medical Sciences, National Institutes of Health, R
 `2017-2019`
 National Institute of Child Health and Human Development, National Institutes of Health, R03 HD078653, "Counting Marriage and Divorce: Archiving Over a Century of County and State Data" (Sub-award Co-Investigator), $30,750.
 
+## Conference Presentations and Invited Talks
+`2020`
+Invited Speaker, "Differential Privacy and the 2020 Decennial Census: Implications for Social Scientists", Center for Studies in Demography and Ecology, University of Washington.
+
+`2020`
+Presenter, "Differential Privacy and Racial Residential Segregation", PAA Annual Meeting, Washington DC. Cancelled because of COVID-19.
+
+`2020`
+Co-author, "Early Public Housing Developments as State-Led Gentrification in U.S. Cities", PAA Annual Meeting, Washington DC. Cancelled because of COVID-19. 
+
+`2020`
+Invited Speaker, "Differential Privacy and the 2020 Decennial Census", Minnesota Population Center Seminar Series, University of Minnesota. 
+
+`2019`
+Invited Speaker, "Geographic Review of Differentially Private Demonstration Data", Workshop on 2020 Census Data Products: Data Needs and Privacy Considerations, Committee on National Statistics - National Academies of Science, Engineering and Medicind, Washington DC. 
+
+`2019`
+Invited Speaker, "Assessing the Impact of Differential Privacy on Racial Residential Segregation", Harvard Data Science Review Symposium, Harvard University, Cambridge MA.
+
+`2019`
+Invited Speaker, "Analyzing the impact of differential privacy on the accuracy of decennial census data", Conference on Data Disaggregation for Research and Policy, Brookings Institution, Washington DC.
+
+`2019`
+Presenter, "Race, Socioeconomic Status, and the First Public Housing Residents of the United States", PAA Annual Meeting, Austin TX. 
+
+`2019`
+Co-author, " Getting “Rural” Right: Poverty Disparities Across Two Dimensions of Rurality", PAA Annual Meeting, Austin TX.
+
+
 <!-- ### Footer
 
 Last updated: May 2020 -->
