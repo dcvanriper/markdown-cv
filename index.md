@@ -191,6 +191,7 @@ Presenter, "Census and Survey Data from Around the World", CIC Impact Summit. Mi
 
 `2019`
 "Accessing, Analyzing, and Visualizing IPUMS Data", joint with the Urban Institute, Washington DC. 
+
 `2018`
 "IPUMS Workshop", Southern Demographic Association Annual Meeting, Durham NC. 
 
@@ -199,6 +200,6 @@ Presenter, "Census and Survey Data from Around the World", CIC Impact Summit. Mi
 
 <!-- ### Footer
 
-Last updated: May 2020 -->
+Last updated: June 2020 -->
 
 
