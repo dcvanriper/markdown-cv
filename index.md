@@ -129,6 +129,9 @@ National Institute of Child Health and Human Development, National Institutes of
 
 ## Conference Presentations and Invited Talks
 `2020`
+Invited Speaker, "What should librarians know about differential privacy and the 2020 Census?", FDLP Academy, Federal Depository Library Program.
+
+`2020`
 Invited Speaker, "Differential Privacy and the 2020 Decennial Census: Implications for Social Scientists", Center for Studies in Demography and Ecology, University of Washington.
 
 `2020`
@@ -138,10 +141,28 @@ Presenter, "Differential Privacy and Racial Residential Segregation", PAA Annual
 Co-author, "Early Public Housing Developments as State-Led Gentrification in U.S. Cities", PAA Annual Meeting, Washington DC. Cancelled because of COVID-19. 
 
 `2020`
+Invited Speaker, "Differential Privacy and the 2020 Decennial Census: Implications for Health Scientists", Environmental Health Tracking Network, Centers for Disease Control. 
+
+`2020`
+Invited Speaker, "Geographic Implications of Differential Privacy for the 2020 Decennial Census", Department of Geography, Environment, and Society, University of Minnesota.
+
+`2020`
 Invited Speaker, "Differential Privacy and the 2020 Decennial Census", Minnesota Population Center Seminar Series, University of Minnesota. 
 
 `2019`
-Invited Speaker, "Geographic Review of Differentially Private Demonstration Data", Workshop on 2020 Census Data Products: Data Needs and Privacy Considerations, Committee on National Statistics - National Academies of Science, Engineering and Medicind, Washington DC. 
+Invited Speaker, "Geographic Review of Differentially Private Demonstration Data", Workshop on 2020 Census Data Products: Data Needs and Privacy Considerations, Committee on National Statistics - National Academies of Science, Engineering and Medicine, Washington DC. 
+
+`2019`
+Invited Speaker, "Intro to Differential Privacy", 2020 Census demonstration data: Privacy and accuracy issues webinar, Census State Data Centers (SDC). 
+
+`2019`
+Invited Speaker, "Differential privacy and the decennial census", How will new Census privacy measures change 2020 Decennial census data? webinar, Association of Public Data Users. 
+
+`2019`
+Presenter, "The Next Frontier for IPUMS NHGIS: 1970 and 1980 Census Block Polygons", Social Science History Association Annual Conference, Chicago IL.
+
+`2019`
+Presenter, "The Demographics of the First Public Housing Developments and Their Surrounding Neighborhoods", Social Science History Association Annual Conference, Chicago IL.
 
 `2019`
 Invited Speaker, "Assessing the Impact of Differential Privacy on Racial Residential Segregation", Harvard Data Science Review Symposium, Harvard University, Cambridge MA.
@@ -150,11 +171,31 @@ Invited Speaker, "Assessing the Impact of Differential Privacy on Racial Residen
 Invited Speaker, "Analyzing the impact of differential privacy on the accuracy of decennial census data", Conference on Data Disaggregation for Research and Policy, Brookings Institution, Washington DC.
 
 `2019`
-Presenter, "Race, Socioeconomic Status, and the First Public Housing Residents of the United States", PAA Annual Meeting, Austin TX. 
+Invited Speaker, " Differential privacy and the decennial census", Urban Institute, Washington DC.
 
 `2019`
-Co-author, " Getting “Rural” Right: Poverty Disparities Across Two Dimensions of Rurality", PAA Annual Meeting, Austin TX.
+Presenter, "Race, Socioeconomic Status, and the First Public Housing Residents of the United States", Population Association of America Annual Meeting, Austin TX. 
 
+`2019`
+Co-author, " Getting “Rural” Right: Poverty Disparities Across Two Dimensions of Rurality", Population Association of America  Annual Meeting, Austin TX.
+
+`2018`
+Invited Speaker, "The New Deal, Legislative Intent, and the First Public Housing Residents in the US", Department of Geography, Environment, and Society, University of Minnesota.
+
+`2018`
+Presenter, "Census and Survey Data from Around the World", CIC Impact Summit. Minneapolis MN.
+
+## Workshops 
+`2019`
+"Accessing, Analyzing, and Visualizing IPUMS Data", joint with the Urban Institute, Denver CO. 
+
+`2019`
+"Accessing, Analyzing, and Visualizing IPUMS Data", joint with the Urban Institute, Washington DC. 
+`2018`
+"IPUMS Workshop", Southern Demographic Association Annual Meeting, Durham NC. 
+
+`2018`
+"IPUMS Data Resources for HSR", AcademyHealth Annual Research Meeting, Seattle WA.
 
 <!-- ### Footer
 
