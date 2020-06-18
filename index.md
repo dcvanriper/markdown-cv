@@ -96,14 +96,15 @@ McMaster, Robert B., Mark Lindberg, and __David Van Riper__. 2003. “The Nation
 
 ### Databases
 
-`2017`
-Manson, Steven, Jonathan Schroeder, __David Van Riper__, and Steven Ruggles. 2019. “IPUMS National Historical Geographic Information System: Version 14.0 [Database].” Minneapolis: University of Minnesota.
+`2019`
+Manson, Steven, Jonathan Schroeder, __David Van Riper__, and Steven Ruggles. 2019. “IPUMS National Historical Geographic Information System: Version 14.0 [Database].” Minneapolis: University of Minnesota. http://doi.org/10.18128/D050.V14.0.
 
 ## Grants
+`2019-2020`
+Sloan Foundation, "Implications of Differential Privacy on Decennial Census Data Accuracy and Utility" (Co-Investigator), $124,767.
 
 `2018-2023`
 National Science Foundation, SES-1825768, "National Historical Geographic Information System" (Co-Investigator), $999,900.
-
 
 `2018-2023`
 National Institute of Child Health and Human Development, National Institutes of Health, R01 HD057929, "National Spatiotemporal Population Research Infrastructure" (Multiple Principal Investigator with Steven M. Manson), $2,924,060.
