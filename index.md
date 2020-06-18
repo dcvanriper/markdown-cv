@@ -159,7 +159,7 @@ Invited Speaker, "Intro to Differential Privacy", 2020 Census demonstration data
 Invited Speaker, "Differential privacy and the decennial census", How will new Census privacy measures change 2020 Decennial census data? webinar, Association of Public Data Users. 
 
 `2019`
-Presenter, "The Next Frontier for IPUMS NHGIS: 1970 and 1980 Census Block Polygons", Social Science History Association Annual Conference, Chicago IL.
+Presenter, "The Next Frontier for IPUMS NHGIS: 1970 and 1980 Census Block Polygons", Social Science History Association Annual Conference, Chicago IL.
 
 `2019`
 Presenter, "The Demographics of the First Public Housing Developments and Their Surrounding Neighborhoods", Social Science History Association Annual Conference, Chicago IL.
