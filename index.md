@@ -97,7 +97,7 @@ McMaster, Robert B., Mark Lindberg, and __David Van Riper__. 2003. “The Nation
 ### Conference Proceedings
 
 `2020`
-__David Van Riper__, Tracy Kugler, and Steven Ruggles. 2020. "Disclosure Avoidance in the Census Bureau's 2010 Demonstration Data Product." In _Privacy in Statistical Database, Tarronga, Spain, September 23-25, 2020_, 353-368. Cham, Switzerland:Springer Nature Switzerland AG
+__David Van Riper__, Tracy Kugler, and Steven Ruggles. 2020. "Disclosure Avoidance in the Census Bureau's 2010 Demonstration Data Product." In _Privacy in Statistical Database, Tarronga, Spain, September 23-25, 2020_, 353-368. Cham, Switzerland: Springer Nature Switzerland AG
 
 ### Databases
 
