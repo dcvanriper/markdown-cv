@@ -94,7 +94,15 @@ Sander, Heather A., Debarchana Ghosh, __David van Riper__, and Steven M. Manson.
 <!---`2003`
 McMaster, Robert B., Mark Lindberg, and __David Van Riper__. 2003. “The National Historical Geographic Information System (NHGIS).” In _Proceedings 21st International Cartographic Conference_, 821–828.---> 
 
+### Conference Proceedings
+
+`2020`
+__David Van Riper__, Tracy Kugler, and Steven Ruggles. 2020. "Disclosure Avoidance in the Census Bureau's 2010 Demonstration Data Product." In _Privacy in Statistical Database, Tarronga, Spain, September 23-25, 2020_, 353-368. Cham, Switzerland:Springer Nature Switzerland AG
+
 ### Databases
+
+`2020`
+Manson, Steven, Jonathan Schroeder, __David Van Riper__, Tracy Kugler and Steven Ruggles. 2019. “IPUMS National Historical Geographic Information System: Version 15.0 [dataset].” Minneapolis: University of Minnesota. http://doi.org/10.18128/D050.V15.0.
 
 `2019`
 Manson, Steven, Jonathan Schroeder, __David Van Riper__, and Steven Ruggles. 2019. “IPUMS National Historical Geographic Information System: Version 14.0 [Database].” Minneapolis: University of Minnesota. http://doi.org/10.18128/D050.V14.0.
