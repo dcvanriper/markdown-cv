@@ -15,7 +15,7 @@ title: David Van Riper
 
 Director of Spatial Analysis, Minnesota Population Center, University of Minnesota, 50 Willey Hall, 225 19th Ave S, Minneapolis MN, December 19, 2011-present.
 
-Research Fellow, Minnesota Population Center, University of Minnesota, 50 Willey Hall, 225 19th Ave S, Minneapolis MN, August 29, 2005- December 18, 2010.
+Research Fellow, Minnesota Population Center, University of Minnesota, 50 Willey Hall, 225 19th Ave S, Minneapolis MN, August 29, 2005-December 18, 2010.
 
 ## Education
 
