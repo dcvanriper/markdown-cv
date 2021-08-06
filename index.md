@@ -13,13 +13,9 @@ title: David Van Riper
 
 ## Appointments
 
-Director of Spatial Analysis, Minnesota Population Center, University of Minnesota, 2010-present.
+Director of Spatial Analysis, Minnesota Population Center, University of Minnesota, 50 Willey Hall, 225 19th Ave S, Minneapolis MN, December 19, 2011-present.
 
-Research Fellow, Minnesota Population Center, University of Minnesota, 2005-2010.
-
-Teaching Specialist, Department of Geography, Environment and Society, University of Minnesota, 2015.
-
-Teaching Specialist, School of Public Health, University of Minnesota, 2008-2014.
+Research Fellow, Minnesota Population Center, University of Minnesota, 50 Willey Hall, 225 19th Ave S, Minneapolis MN, August 29, 2005-2010.
 
 ## Education
 
@@ -28,10 +24,17 @@ __M.A., University of Minnesota__
 
 - Geography
 
+215 Johnston Hall
+101 Pleasant St SE
+Minneapolis MN 55455
+
 `1999`
 __B.A., University of Wisconsin - Madison__
 
 - Geography
+
+333 East Campus Mail #10101
+Madison WI 53715-1384
 
 
 ## Publications
@@ -101,13 +104,17 @@ __David Van Riper__, Tracy Kugler, and Steven Ruggles. 2020. "Disclosure Avoidan
 
 ### Databases
 
+`2021`
+Manson, Steven, Jonathan Schroeder, __David Van Riper__, Tracy Kugler and Steven Ruggles. 2020. “IPUMS National Historical Geographic Information System: Version 16.0 [dataset].” Minneapolis: University of Minnesota. http://doi.org/10.18128/D050.V16.0.
+
 `2020`
-Manson, Steven, Jonathan Schroeder, __David Van Riper__, Tracy Kugler and Steven Ruggles. 2019. “IPUMS National Historical Geographic Information System: Version 15.0 [dataset].” Minneapolis: University of Minnesota. http://doi.org/10.18128/D050.V15.0.
+Manson, Steven, Jonathan Schroeder, __David Van Riper__, Tracy Kugler and Steven Ruggles. 2020. “IPUMS National Historical Geographic Information System: Version 15.0 [dataset].” Minneapolis: University of Minnesota. http://doi.org/10.18128/D050.V15.0.
 
 `2019`
 Manson, Steven, Jonathan Schroeder, __David Van Riper__, and Steven Ruggles. 2019. “IPUMS National Historical Geographic Information System: Version 14.0 [Database].” Minneapolis: University of Minnesota. http://doi.org/10.18128/D050.V14.0.
 
 ## Grants
+
 `2019-2020`
 Sloan Foundation, "Implications of Differential Privacy on Decennial Census Data Accuracy and Utility" (Co-Investigator), $124,767.
 
@@ -136,6 +143,28 @@ National Institute of General Medical Sciences, National Institutes of Health, R
 National Institute of Child Health and Human Development, National Institutes of Health, R03 HD078653, "Counting Marriage and Divorce: Archiving Over a Century of County and State Data" (Sub-award Co-Investigator), $30,750.
 
 ## Conference Presentations and Invited Talks
+
+`2021`
+Invited Speaker, "Uncertainty in Demographic and Socioeconomic Data: The Use of Differential Privacy for Disclosure Control, and It's Potential Impact on Age and Race/Ethnicity Counts" National Center for Vital and Health Statistics Spring Meeting. 
+
+`2020`
+Invited Speaker, "Differential Privacy and Census Data: Implications for Spatial Analysis" Spatial Analytics + Data Seminar Series. 
+
+`2020`
+Invited Speaker, "Disclosure Avoidance and the 2020 Decennial Census", National Network of Health Survey's Data Disaggregation Workshop. 
+
+`2020`
+Presenter, "Differential Privacy and Racial Residential Segregation", Association for Public Policy Analysis & Management Fall Research Conference.
+
+`2020`
+Presenter, "Studying social determinants of health using differentially private data", American Public Health Association 2020 Virtual Annual Meeting and Expo.
+
+`2020`
+Invited Speaker, "Differential Privacy and the 2020 Decennial Census", Twin Cities Research Group. 
+
+`2020`
+Invited Speaker, "Data Quality Under Differential Privacy: Missouri's Counties, County Subdivisions, and Census Tracts", Engaging 4 MO, University of Missouri.
+
 `2020`
 Invited Speaker, "What should librarians know about differential privacy and the 2020 Census?", FDLP Academy, Federal Depository Library Program.
 
