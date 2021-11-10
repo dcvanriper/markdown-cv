@@ -7,15 +7,19 @@ title: David Van Riper
 <div id="webaddress">
 <a href="vanriper@umn.edu">vanriper@umn.edu</a>
 | <a href="https://pop.umn.edu/staff/dave-van-riper">Bio</a>
-| <a href="https://twitter.com/dcvanriper">@dcvanriper</a> 
+| <a href="https://twitter.com/dcvanriper">@dcvanriper</a>
 </div>
 
 
 ## Appointments
 
-Director of Spatial Analysis, Minnesota Population Center, University of Minnesota, 50 Willey Hall, 225 19th Ave S, Minneapolis MN, December 19, 2011-present.
+Director of Spatial Analysis, Minnesota Population Center, University of Minnesota, 2010-present.
 
-Research Fellow, Minnesota Population Center, University of Minnesota, 50 Willey Hall, 225 19th Ave S, Minneapolis MN, August 29, 2005-December 18, 2010.
+Research Fellow, Minnesota Population Center, University of Minnesota, 2005-2010.
+
+Teaching Specialist, Department of Geography, Environment and Society, University of Minnesota, 2015.
+
+Teaching Specialist, School of Public Health, University of Minnesota, 2008-2014.
 
 ## Education
 
@@ -24,17 +28,10 @@ __M.A., University of Minnesota__
 
 - Geography
 
-215 Johnston Hall
-101 Pleasant St SE
-Minneapolis MN 55455
-
 `1999`
 __B.A., University of Wisconsin - Madison__
 
 - Geography
-
-333 East Campus Mail #10101
-Madison WI 53715-1384
 
 
 ## Publications
@@ -42,6 +39,18 @@ Madison WI 53715-1384
 <!-- A list is also available [online](https://scholar.google.com/citations?user=-RlIzb0AAAAJ&hl=en) -->
 
 ### Journals
+
+`2021`
+Wrigley-Field, Elizabeth, Mathew V Kiang, Alicia R Riley, Magali Barbieri, Yea-Hung Chen, Kate A Duchowny, Ellicott C Matthay, __David Van Riper__, Kirrthana Jegathesan, Kirsten Bibbins-Domingo, and Jonathon P Leider. 2021. "Geographically targeted COVID-19 vaccination is more equitable and averts more deaths than age-based thresholds alone." _Science Advances_ 7: eabj2099. https://doi.org/10.1126/sciadv.abj2099.
+
+`2021`
+Wrigley-Field, Elizabeth, Sarah Garcia, Jonathon P Leider, and __David Van Riper__. 2021. "COVID-19 Mortality At The Neighborhood Level: Racial and Ethnic Inequalities Deepened in Minnesota in 2020." _Health Affairs_ 40 (10). https://doi.org/10.1377/hlthaff.2021.00365.
+
+`2021`
+Chantarat, Tongtan, __David C Van Riper__, and Rachel R Hardeman. 2021. "The intricacy of structural racism measurement: A pilot development of a latent-class multidimensional measure". _EClinicalMedicine_ 40 (October): 101092. https://doi.org/10.1016/j.eclinm.2021.101092.
+
+`2021`
+Ruggles, Steven, and __David Van Riper__. 2021. "The Role of Chance in the Census Bureau Database Reconstruction Experiment". _Population Research and Policy Review_. https://doi.org/10.1007/s1113-021-09674-3.
 
 `2020`
 Grace, Kathryn, Sunnee Billingsley, and __David Van Riper__. 2020. “Building an Interdisciplinary Framework to Advance Conceptual and Technical Aspects of Population-Environment Research Focused on Women’s and Children’s Health.” _Social Science & Medicine_ 250 (April): 112857. https://doi.org/10.1016/j.socscimed.2020.112857.
@@ -95,7 +104,7 @@ Laska, Melissa Nelson, Dan J. Graham, Stacey G. Moe, and __David Van Riper__. 20
 Sander, Heather A., Debarchana Ghosh, __David van Riper__, and Steven M. Manson. 2010. “How Do You Measure Distance in Spatial Models? An Example Using Open-Space Valuation.” _Environment and Planning B: Planning and Design_, January. https://doi.org/10.1068/b35126.
 
 <!---`2003`
-McMaster, Robert B., Mark Lindberg, and __David Van Riper__. 2003. “The National Historical Geographic Information System (NHGIS).” In _Proceedings 21st International Cartographic Conference_, 821–828.---> 
+McMaster, Robert B., Mark Lindberg, and __David Van Riper__. 2003. “The National Historical Geographic Information System (NHGIS).” In _Proceedings 21st International Cartographic Conference_, 821–828.--->
 
 ### Conference Proceedings
 
@@ -104,17 +113,13 @@ __David Van Riper__, Tracy Kugler, and Steven Ruggles. 2020. "Disclosure Avoidan
 
 ### Databases
 
-`2021`
-Manson, Steven, Jonathan Schroeder, __David Van Riper__, Tracy Kugler and Steven Ruggles. 2020. “IPUMS National Historical Geographic Information System: Version 16.0 [dataset].” Minneapolis: University of Minnesota. http://doi.org/10.18128/D050.V16.0.
-
 `2020`
-Manson, Steven, Jonathan Schroeder, __David Van Riper__, Tracy Kugler and Steven Ruggles. 2020. “IPUMS National Historical Geographic Information System: Version 15.0 [dataset].” Minneapolis: University of Minnesota. http://doi.org/10.18128/D050.V15.0.
+Manson, Steven, Jonathan Schroeder, __David Van Riper__, Tracy Kugler and Steven Ruggles. 2019. “IPUMS National Historical Geographic Information System: Version 15.0 [dataset].” Minneapolis: University of Minnesota. http://doi.org/10.18128/D050.V15.0.
 
 `2019`
 Manson, Steven, Jonathan Schroeder, __David Van Riper__, and Steven Ruggles. 2019. “IPUMS National Historical Geographic Information System: Version 14.0 [Database].” Minneapolis: University of Minnesota. http://doi.org/10.18128/D050.V14.0.
 
 ## Grants
-
 `2019-2020`
 Sloan Foundation, "Implications of Differential Privacy on Decennial Census Data Accuracy and Utility" (Co-Investigator), $124,767.
 
@@ -143,28 +148,6 @@ National Institute of General Medical Sciences, National Institutes of Health, R
 National Institute of Child Health and Human Development, National Institutes of Health, R03 HD078653, "Counting Marriage and Divorce: Archiving Over a Century of County and State Data" (Sub-award Co-Investigator), $30,750.
 
 ## Conference Presentations and Invited Talks
-
-`2021`
-Invited Speaker, "Uncertainty in Demographic and Socioeconomic Data: The Use of Differential Privacy for Disclosure Control, and It's Potential Impact on Age and Race/Ethnicity Counts" National Center for Vital and Health Statistics Spring Meeting. 
-
-`2020`
-Invited Speaker, "Differential Privacy and Census Data: Implications for Spatial Analysis" Spatial Analytics + Data Seminar Series. 
-
-`2020`
-Invited Speaker, "Disclosure Avoidance and the 2020 Decennial Census", National Network of Health Survey's Data Disaggregation Workshop. 
-
-`2020`
-Presenter, "Differential Privacy and Racial Residential Segregation", Association for Public Policy Analysis & Management Fall Research Conference.
-
-`2020`
-Presenter, "Studying social determinants of health using differentially private data", American Public Health Association 2020 Virtual Annual Meeting and Expo.
-
-`2020`
-Invited Speaker, "Differential Privacy and the 2020 Decennial Census", Twin Cities Research Group. 
-
-`2020`
-Invited Speaker, "Data Quality Under Differential Privacy: Missouri's Counties, County Subdivisions, and Census Tracts", Engaging 4 MO, University of Missouri.
-
 `2020`
 Invited Speaker, "What should librarians know about differential privacy and the 2020 Census?", FDLP Academy, Federal Depository Library Program.
 
@@ -175,25 +158,25 @@ Invited Speaker, "Differential Privacy and the 2020 Decennial Census: Implicatio
 Presenter, "Differential Privacy and Racial Residential Segregation", PAA Annual Meeting, Washington DC. Cancelled because of COVID-19.
 
 `2020`
-Co-author, "Early Public Housing Developments as State-Led Gentrification in U.S. Cities", PAA Annual Meeting, Washington DC. Cancelled because of COVID-19. 
+Co-author, "Early Public Housing Developments as State-Led Gentrification in U.S. Cities", PAA Annual Meeting, Washington DC. Cancelled because of COVID-19.
 
 `2020`
-Invited Speaker, "Differential Privacy and the 2020 Decennial Census: Implications for Health Scientists", Environmental Health Tracking Network, Centers for Disease Control. 
+Invited Speaker, "Differential Privacy and the 2020 Decennial Census: Implications for Health Scientists", Environmental Health Tracking Network, Centers for Disease Control.
 
 `2020`
 Invited Speaker, "Geographic Implications of Differential Privacy for the 2020 Decennial Census", Department of Geography, Environment, and Society, University of Minnesota.
 
 `2020`
-Invited Speaker, "Differential Privacy and the 2020 Decennial Census", Minnesota Population Center Seminar Series, University of Minnesota. 
+Invited Speaker, "Differential Privacy and the 2020 Decennial Census", Minnesota Population Center Seminar Series, University of Minnesota.
 
 `2019`
-Invited Speaker, "Geographic Review of Differentially Private Demonstration Data", Workshop on 2020 Census Data Products: Data Needs and Privacy Considerations, Committee on National Statistics - National Academies of Science, Engineering and Medicine, Washington DC. 
+Invited Speaker, "Geographic Review of Differentially Private Demonstration Data", Workshop on 2020 Census Data Products: Data Needs and Privacy Considerations, Committee on National Statistics - National Academies of Science, Engineering and Medicine, Washington DC.
 
 `2019`
-Invited Speaker, "Intro to Differential Privacy", 2020 Census demonstration data: Privacy and accuracy issues webinar, Census State Data Centers (SDC). 
+Invited Speaker, "Intro to Differential Privacy", 2020 Census demonstration data: Privacy and accuracy issues webinar, Census State Data Centers (SDC).
 
 `2019`
-Invited Speaker, "Differential privacy and the decennial census", How will new Census privacy measures change 2020 Decennial census data? webinar, Association of Public Data Users. 
+Invited Speaker, "Differential privacy and the decennial census", How will new Census privacy measures change 2020 Decennial census data? webinar, Association of Public Data Users.
 
 `2019`
 Presenter, "The Next Frontier for IPUMS NHGIS: 1970 and 1980 Census Block Polygons", Social Science History Association Annual Conference, Chicago IL.
@@ -211,7 +194,7 @@ Invited Speaker, "Analyzing the impact of differential privacy on the accuracy o
 Invited Speaker, " Differential privacy and the decennial census", Urban Institute, Washington DC.
 
 `2019`
-Presenter, "Race, Socioeconomic Status, and the First Public Housing Residents of the United States", Population Association of America Annual Meeting, Austin TX. 
+Presenter, "Race, Socioeconomic Status, and the First Public Housing Residents of the United States", Population Association of America Annual Meeting, Austin TX.
 
 `2019`
 Co-author, " Getting “Rural” Right: Poverty Disparities Across Two Dimensions of Rurality", Population Association of America  Annual Meeting, Austin TX.
@@ -222,21 +205,20 @@ Invited Speaker, "The New Deal, Legislative Intent, and the First Public Housing
 `2018`
 Presenter, "Census and Survey Data from Around the World", CIC Impact Summit. Minneapolis MN.
 
-## Workshops 
+## Workshops
 `2019`
-"Accessing, Analyzing, and Visualizing IPUMS Data", joint with the Urban Institute, Denver CO. 
+"Accessing, Analyzing, and Visualizing IPUMS Data", joint with the Urban Institute, Denver CO.
 
 `2019`
-"Accessing, Analyzing, and Visualizing IPUMS Data", joint with the Urban Institute, Washington DC. 
+"Accessing, Analyzing, and Visualizing IPUMS Data", joint with the Urban Institute, Washington DC.
 
 `2018`
-"IPUMS Workshop", Southern Demographic Association Annual Meeting, Durham NC. 
+"IPUMS Workshop", Southern Demographic Association Annual Meeting, Durham NC.
 
 `2018`
 "IPUMS Data Resources for HSR", AcademyHealth Annual Research Meeting, Seattle WA.
 
 <!-- ### Footer
 
-Last updated: June 2020 -->
-
+Last updated: November 2021 -->
 
