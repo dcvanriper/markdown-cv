@@ -40,6 +40,12 @@ __B.A., University of Wisconsin - Madison__
 
 ### Journals
 
+`2022`
+Chantarat, Tongtan, __David C Van Riper__, and Rachel R Hardeman. 2022. "Multidimensional structural racism predicts birth outcomes for Black and White Minnesotans." _Health Services Research_. doi:10.1111/1475-6773.13976. 
+
+`2021'
+Hardeman, Rachel, Tongtan Chantarat, Morrison Luke Smith, J'mag Karbeah, __David C Van Riper__, and Dara D Mendez. 2021. "Association of Residence in High-Police Contact Neighborhoods With Preterm Birth Among Black and White Individuals in Minneapolis." _JAMA Network Open_: e2130290. doi:10.1001/jamanetworkopen.2021.30290. 
+
 `2021`
 Wrigley-Field, Elizabeth, Mathew V Kiang, Alicia R Riley, Magali Barbieri, Yea-Hung Chen, Kate A Duchowny, Ellicott C Matthay, __David Van Riper__, Kirrthana Jegathesan, Kirsten Bibbins-Domingo, and Jonathon P Leider. 2021. "Geographically targeted COVID-19 vaccination is more equitable and averts more deaths than age-based thresholds alone." _Science Advances_ 7: eabj2099. https://doi.org/10.1126/sciadv.abj2099.
 
