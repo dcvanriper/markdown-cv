@@ -43,7 +43,7 @@ __B.A., University of Wisconsin - Madison__
 `2022`
 Chantarat, Tongtan, __David C Van Riper__, and Rachel R Hardeman. 2022. "Multidimensional structural racism predicts birth outcomes for Black and White Minnesotans." _Health Services Research_. doi:10.1111/1475-6773.13976. 
 
-`2021'
+`2021`
 Hardeman, Rachel, Tongtan Chantarat, Morrison Luke Smith, J'mag Karbeah, __David C Van Riper__, and Dara D Mendez. 2021. "Association of Residence in High-Police Contact Neighborhoods With Preterm Birth Among Black and White Individuals in Minneapolis." _JAMA Network Open_: e2130290. doi:10.1001/jamanetworkopen.2021.30290. 
 
 `2021`
