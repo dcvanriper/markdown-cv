@@ -119,8 +119,14 @@ __David Van Riper__, Tracy Kugler, and Steven Ruggles. 2020. "Disclosure Avoidan
 
 ### Databases
 
+`2022`
+Manson, Steven, Jonathan Schroeder, __David Van Riper__, Tracy Kugler and Steven Ruggles. 2022. “IPUMS National Historical Geographic Information System: Version 17.0 [dataset].” Minneapolis: University of Minnesota. http://doi.org/10.18128/D050.V17.0.
+
+`2021`
+Manson, Steven, Jonathan Schroeder, __David Van Riper__, Tracy Kugler and Steven Ruggles. 2021. “IPUMS National Historical Geographic Information System: Version 16.0 [dataset].” Minneapolis: University of Minnesota. http://doi.org/10.18128/D050.V16.0.
+
 `2020`
-Manson, Steven, Jonathan Schroeder, __David Van Riper__, Tracy Kugler and Steven Ruggles. 2019. “IPUMS National Historical Geographic Information System: Version 15.0 [dataset].” Minneapolis: University of Minnesota. http://doi.org/10.18128/D050.V15.0.
+Manson, Steven, Jonathan Schroeder, __David Van Riper__, Tracy Kugler and Steven Ruggles. 2020. “IPUMS National Historical Geographic Information System: Version 15.0 [dataset].” Minneapolis: University of Minnesota. http://doi.org/10.18128/D050.V15.0.
 
 `2019`
 Manson, Steven, Jonathan Schroeder, __David Van Riper__, and Steven Ruggles. 2019. “IPUMS National Historical Geographic Information System: Version 14.0 [Database].” Minneapolis: University of Minnesota. http://doi.org/10.18128/D050.V14.0.
