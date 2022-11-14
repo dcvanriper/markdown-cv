@@ -41,6 +41,9 @@ __B.A., University of Wisconsin - Madison__
 ### Journals
 
 `2022`
+Asquith, B., Hershbein, B., Kugler, T., Reed, S., Ruggles, S., Schroeder, J., Yesiltepe, S., & __Van Riper, D__. 2022. Assessing the Impact of Differential Privacy on Measures of Population and Racial Residential Segregation. Harvard Data Science Review, (Special Issue 2). https://doi.org/10.1162/99608f92.5cd8024e
+
+`2022`
 Chantarat, Tongtan, __David C Van Riper__, and Rachel R Hardeman. 2022. "Multidimensional structural racism predicts birth outcomes for Black and White Minnesotans." _Health Services Research_. doi:10.1111/1475-6773.13976. 
 
 `2021`
@@ -160,6 +163,13 @@ National Institute of General Medical Sciences, National Institutes of Health, R
 National Institute of Child Health and Human Development, National Institutes of Health, R03 HD078653, "Counting Marriage and Divorce: Archiving Over a Century of County and State Data" (Sub-award Co-Investigator), $30,750.
 
 ## Conference Presentations and Invited Talks
+
+`2022`
+Invited Speaker, "Differential Privacy and the 2020 Decennial Census: Implications for Spatial Analysis", Taylor Geospatial Institute, St. Louis University.
+
+`2022`
+Invited Speaker, "Differential Privacy and the 2020 Decennial Census: Implications for Population Studies", Population Studies and Training Center, Brown University.
+
 `2020`
 Invited Speaker, "What should librarians know about differential privacy and the 2020 Census?", FDLP Academy, Federal Depository Library Program.
 
@@ -230,7 +240,10 @@ Presenter, "Census and Survey Data from Around the World", CIC Impact Summit. Mi
 `2018`
 "IPUMS Data Resources for HSR", AcademyHealth Annual Research Meeting, Seattle WA.
 
+## Professional Service
+Member, Panel to Evaluate the Quality of the 2020 Decennial Census, National Academy of Sciences, Engineering, and Medicine (NASEM). 
+
 <!-- ### Footer
 
-Last updated: November 2021 -->
+Last updated: November 202q -->
 
