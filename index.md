@@ -245,5 +245,5 @@ Member, Panel to Evaluate the Quality of the 2020 Decennial Census, National Aca
 
 <!-- ### Footer
 
-Last updated: November 202q -->
+Last updated: November 2022 -->
 
