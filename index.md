@@ -13,7 +13,7 @@ title: David Van Riper
 
 ## Appointments
 
-Director of Spatial Analysis, Minnesota Population Center, University of Minnesota, 2010-present.
+Director of Spatial Analysis, Institute for Social Research and Data Innovation, University of Minnesota, 2010-present.
 
 Research Fellow, Minnesota Population Center, University of Minnesota, 2005-2010.
 
@@ -241,6 +241,9 @@ Presenter, "Census and Survey Data from Around the World", CIC Impact Summit. Mi
 "IPUMS Data Resources for HSR", AcademyHealth Annual Research Meeting, Seattle WA.
 
 ## Professional Service
+`2023-2026`
+Board Member, Association of Public Data Users (APDU).
+
 `2021-2023`
 Member, Panel to Evaluate the Quality of the 2020 Decennial Census, National Academy of Sciences, Engineering, and Medicine (NASEM). 
 
