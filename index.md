@@ -40,8 +40,11 @@ __B.A., University of Wisconsin - Madison__
 
 ### Journals
 
+`2024`
+Fowler, CS, Gaboardi, JD, Schroeder, JP, & __Van Riper, DC__. 2024. "Optimized spatial information for 1990, 2000, and 2010 U.S. census microdata." _Scientific Data_:2024 Jan 5; 11(1):37. doi: 10.1038/s41597-023-02859-9.
+
 `2022`
-Asquith, B., Hershbein, B., Kugler, T., Reed, S., Ruggles, S., Schroeder, J., Yesiltepe, S., & __Van Riper, D__. 2022. Assessing the Impact of Differential Privacy on Measures of Population and Racial Residential Segregation. Harvard Data Science Review, (Special Issue 2). https://doi.org/10.1162/99608f92.5cd8024e
+Asquith, B., Hershbein, B., Kugler, T., Reed, S., Ruggles, S., Schroeder, J., Yesiltepe, S., & __Van Riper, D__. 2022. "Assessing the Impact of Differential Privacy on Measures of Population and Racial Residential Segregation." _Harvard Data Science Review_, (Special Issue 2). https://doi.org/10.1162/99608f92.5cd8024e
 
 `2022`
 Chantarat, Tongtan, __David C Van Riper__, and Rachel R Hardeman. 2022. "Multidimensional structural racism predicts birth outcomes for Black and White Minnesotans." _Health Services Research_. doi:10.1111/1475-6773.13976. 
