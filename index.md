@@ -156,6 +156,45 @@ Manson, Steven, Jonathan Schroeder, __David Van Riper__, Tracy Kugler and Steven
 Manson, Steven, Jonathan Schroeder, __David Van Riper__, and Steven Ruggles. 2019. “IPUMS National Historical Geographic Information System: Version 14.0 [Database].” Minneapolis: University of Minnesota. http://doi.org/10.18128/D050.V14.0.
 
 ## Grants
+`2025-2029`
+National Institute of Aging, National Institutes of Health, RF1AG082957, "Housing policy, neighborhood context, and pathways to midlife mortality in a social experiment" (Co-Investigator), $2,501,173.
+
+`2024-2029`
+National Institute of Child Health and Human Development, National Institutes of Health, R01HD057929, "National Spatiotemporal Population Research Infrastructure" (Multiple Principal Investigator with Jonathan P. Schroeder and Steven M. Manson), $3,329,029.
+
+`2024-2029`
+National Institute of Aging, National Institutes of Health, U24AG088894, "Gateway Exposome Coordinating Center (GECC) For AD/ADRD Research" (Sub-award Co-Investigator), $1,249,300.
+
+`2024-2029`
+National Institutes of Health, DP5OD037332, "Place-Based Influences on Mortality among People Experiencing Homelessness" (Co-Investigator), $1,911,970.
+
+`2024-2029`
+National Institute of Child Health and Human Development, National Institutes of Health, R01HD094081"A Longitudinal Examination of Mechanisms Underlying Intersectional Health Disparities in the United States" (Co-Investigator), $3,305,836.
+
+`2024-2027`
+United States Geological Survey, G24AC00247-00, "Advancing Community-Engaged Climate Change-Health Research: Data Infrastructure and Research" (Co-Investigator), $1,144,021.
+
+`2024-2027`
+National Center for Complementary and Integrative Health, National Institutes of Health, "Structural Racism and Discrimination and associations with health and well-being across the life course in diverse families" (Co-Investigator), $634,072.
+
+`2023-2028`
+National Science Foundation, SES-2316650, "National Historical Geographic Information System" (Co-Investigator), $1,249,705.
+
+`2023-2028`
+National Institute of Child Health and Human Development, National Institutes of Health, R01 HD043392, "Microdata for Population Dynamics and Health Research" (Co-Investigator), $3,187,956
+
+`2022-2026`
+National Cancer Institute, National Institutes of Health, R01CA266105, "Socioeconomic determinants of childhood canceroutcomes in a large contemporary cohort" (Co-Investigator), $1,154,762.
+
+`2022-2026`
+National Institute of Aging, National Institutes of Health, R01AG075334, "Prospective Microdata for Research on Aging (IPUMS 1950)", (Co-Investigator), $4,770,714.
+
+`2021-2026`
+National Institute of Child Health and Human Development, National Institutes of Health, U01HD108779,  "Unequal Parenthoods: Population Perspectives on Gender, Race, and Sexual Minority Disparities in Family Stress and Health During Crises" (Co-Investigator), $2,123,211.
+
+`2021-2026`
+National Institute of Child Health and Human Development, National Institutes of Health, P2CHD041023,  "Minnesota Population Center" (Co-Investigator), $2,394,151.
+
 `2019-2020`
 Sloan Foundation, "Implications of Differential Privacy on Decennial Census Data Accuracy and Utility" (Co-Investigator), $124,767.
 
