@@ -40,7 +40,16 @@ __B.A., University of Wisconsin - Madison__
 
 ### Journals
 
+`2025`
+Xiong, M, Zhu, D & __Van Riper, D__. 2025. "A visitor-enriched census in the U.S. cities using large-scale mobile positioning data." _Scientific Data_ 12, 1106. https://doi.org/10.1038/s41597-025-05410-0.
+
+Rigby, D, Esposito, MH, Lee, H, __Van Riper, DC__, Hicken, MT, & Berrey, SA. "A national data set of historical US sundown towns for quantitative analysis." _Scientifie Data_ 12, 31 (2025). https://doi.org/10.1038/s41597-024-04330-9.
+
 `2024`
+Schousboe, JT, Langsetmo, L, Kats, AM, Taylor, BC, Boyd, C, __Van Riper D__, Kado, DM, Duan-Porter, W, Cawthon, PM, & Ensrud, KE. "Neighborhood Socioeconomic Deprivation and Health Care Costs in Older Community-Dwelling Adults: Importance of Functional Impairment and Frailty." _J Gen Intern Med_. 2024 Nov;39(15):3009-3017. doi: 10.1007/s11606-024-08875-8. Epub 2024 Jun 27. PMID: 38937364; PMCID: PMC11576700.
+
+Parsons, HM, Muffly, LS, Garcia, A, Zhang, A, Miller, K, __Van Riper, D__, Knowles, K, Keegan, TH. "Travel-time barriers to specialized cancer care for adolescents and young adults with acute lymphoblastic leukemia." _JNCI Cancer Spectrum_:2024; 8(4), pkae046, https://doi.org/10.1093/jncics/pkae046.
+
 Fowler, CS, Gaboardi, JD, Schroeder, JP, & __Van Riper, DC__. 2024. "Optimized spatial information for 1990, 2000, and 2010 U.S. census microdata." _Scientific Data_:2024 Jan 5; 11(1):37. doi: 10.1038/s41597-023-02859-9.
 
 `2022`
@@ -124,6 +133,15 @@ McMaster, Robert B., Mark Lindberg, and __David Van Riper__. 2003. “The Nation
 __David Van Riper__, Tracy Kugler, and Steven Ruggles. 2020. "Disclosure Avoidance in the Census Bureau's 2010 Demonstration Data Product." In _Privacy in Statistical Database, Tarronga, Spain, September 23-25, 2020_, 353-368. Cham, Switzerland: Springer Nature Switzerland AG
 
 ### Databases
+
+`2025`
+Jonathan Schroeder, __David Van Riper__, Steven Manson, Katherine Knowles, Tracy Kugler, Finn Roberts, and Steven Ruggles. IPUMS National Historical Geographic Information System: Version 20.0 [dataset]. Minneapolis, MN: IPUMS. 2025. http://doi.org/10.18128/D050.V20.0
+
+`2024`
+Manson, Steven, Jonathan Schroeder, __David Van Riper__, Katherine Knowles, Tracy Kugler, Finn Roberts, and Steven Ruggles. 2024. “IPUMS National Historical Geographic Information System: Version 19.0 [dataset].” Minneapolis: University of Minnesota. http://doi.org/10.18128/D050.V19.0.
+
+`2023`
+Manson, Steven, Jonathan Schroeder, __David Van Riper__, Katherine Knowles, Tracy Kugler, Finn Roberts, and Steven Ruggles. 2023. “IPUMS National Historical Geographic Information System: Version 18.0 [dataset].” Minneapolis: University of Minnesota. http://doi.org/10.18128/D050.V18.0.
 
 `2022`
 Manson, Steven, Jonathan Schroeder, __David Van Riper__, Tracy Kugler and Steven Ruggles. 2022. “IPUMS National Historical Geographic Information System: Version 17.0 [dataset].” Minneapolis: University of Minnesota. http://doi.org/10.18128/D050.V17.0.
@@ -244,7 +262,7 @@ Presenter, "Census and Survey Data from Around the World", CIC Impact Summit. Mi
 "IPUMS Data Resources for HSR", AcademyHealth Annual Research Meeting, Seattle WA.
 
 ## Professional Service
-`2023-2026`
+`2023-2025`
 Board Member, Association of Public Data Users (APDU).
 
 `2021-2023`
